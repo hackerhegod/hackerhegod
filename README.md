@@ -4,7 +4,7 @@ I'm a **Backend Developer and Cybersecurity enthusiast** focused on building rel
 
 I enjoy learning by **building, breaking, debugging, and improving real projects** rather than just following tutorials.
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Backend**
 
@@ -36,7 +36,7 @@ I enjoy learning by **building, breaking, debugging, and improving real projects
 * Linux
 * VS Code
 
-## 🚀 Projects
+## Projects
 
 ### PixelaForAll
 
@@ -44,7 +44,7 @@ A beginner-friendly interface for using [Pixela](https://pixe.la/) without havin
 
 I'm building PixelaForAll with a strong focus on **privacy and minimal data handling**, including a BYO API key approach where users' Pixela credentials aren't stored by the application.
 
-### 🔐 Security Labs & Experiments
+### Security Labs & Experiments
 
 Hands-on cybersecurity exercises covering areas such as:
 
@@ -55,7 +55,7 @@ Hands-on cybersecurity exercises covering areas such as:
 * Web application security
 * Vulnerability research
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Advanced Node.js backend development
 * Secure API design
@@ -71,7 +71,7 @@ Hands-on cybersecurity exercises covering areas such as:
 
 I'm also continuing to build my cybersecurity skills through **hands-on labs, security research, and practical projects**.
 
-## 🎯 My Approach
+## My Approach
 
 > **Build first. Understand deeply. Break things safely. Fix them better.**
 
@@ -79,7 +79,7 @@ I'm interested in the space where **software development and cybersecurity meet*
 
 ---
 
-⭐ *Always learning. Always building.*
+*Always learning. Always building.*
 
 
 
